@@ -50,5 +50,4 @@ function renderLicenseBadge(license) {
     ${data.questions}
   `;
   }
-  
   module.exports = generateMarkdown;
